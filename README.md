@@ -4,6 +4,7 @@ Easy Invoicing Library for Golang
 <div align="center">
 
 Create a PDF Invoice the easy way using this library.
+
 `Special thanks to https://github.com/maaslalani/invoice and https://github.com/signintech/gopdf`
 
 [![GoDoc][doc-img]][doc]
@@ -101,7 +102,7 @@ func main() {
 
 ## License
 
-This is licensed under the Apache 2.0 Library to match its partner in crime, APISIX.
+This is licensed under the Apache 2.0 Library
 
 [doc]: https://pkg.go.dev/github.com/mbarreca/goeasyinvoice
 [doc-img]: https://pkg.go.dev/badge/github.com/mbarreca/goeasyinvoice
