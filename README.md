@@ -1,7 +1,7 @@
 # goeasyinvoice
 <div align="center">
 
-Create a PDF Invoice the easy way using this Go Easy Invoice.
+Create a PDF Invoice the easy way using Go Easy Invoice.
 
 `Special thanks to https://github.com/maaslalani/invoice and https://github.com/signintech/gopdf`
 
