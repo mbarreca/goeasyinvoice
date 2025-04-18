@@ -1,9 +1,7 @@
 # goeasyinvoice
-Easy Invoicing Library for Golang
-
 <div align="center">
 
-Create a PDF Invoice the easy way using this library.
+Create a PDF Invoice the easy way using this Go Easy Invoice.
 
 `Special thanks to https://github.com/maaslalani/invoice and https://github.com/signintech/gopdf`
 
@@ -19,7 +17,7 @@ Create a PDF Invoice the easy way using this library.
 
 <div align="left">
 
-Go Easy Invoice was built and tested with Go 1.23, it may still work with prior versions however it has not been tested so use at your own risk.
+Go Easy Invoice was built and tested with Go 1.24, it may still work with prior versions however it has not been tested so use at your own risk.
 
 ## Why would I use this library?
 
@@ -102,7 +100,7 @@ func main() {
 
 ## License
 
-This is licensed under Apache 2.0
+Goeasyinvoice is licensed under Apache 2.0.
 
 [doc]: https://pkg.go.dev/github.com/mbarreca/goeasyinvoice
 [doc-img]: https://pkg.go.dev/badge/github.com/mbarreca/goeasyinvoice
