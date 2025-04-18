@@ -102,7 +102,7 @@ func main() {
 
 ## License
 
-This is licensed under the Apache 2.0 Library
+This is licensed under Apache 2.0
 
 [doc]: https://pkg.go.dev/github.com/mbarreca/goeasyinvoice
 [doc-img]: https://pkg.go.dev/badge/github.com/mbarreca/goeasyinvoice
