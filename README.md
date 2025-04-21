@@ -37,8 +37,6 @@ package main
 
 import (
 	"embed"
-	"testing"
-
 	invoice "github.com/mbarreca/goeasyinvoice" // Apache 2.0
 )
 /*
